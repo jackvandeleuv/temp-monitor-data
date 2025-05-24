@@ -576,4 +576,5 @@
 {"timestamp": 1748109000.0, "temperature": 19.0, "humidity": 44.25238095238095}
 {"timestamp": 1748109600.0, "temperature": 19.0, "humidity": 44.20434782608696}
 {"timestamp": 1748110200.0, "temperature": 19.011904761904763, "humidity": 44.19761904761905}
-{"timestamp": 1748110800.0, "temperature": 19.0, "humidity": 44.184000000000005}
+{"timestamp": 1748110800.0, "temperature": 19.002439024390245, "humidity": 44.18536585365854}
+{"timestamp": 1748111400.0, "temperature": 19.008888888888887, "humidity": 44.18666666666667}
