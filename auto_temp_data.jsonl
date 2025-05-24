@@ -500,4 +500,5 @@
 {"timestamp": 1748063400.0, "temperature": 19.057894736842105, "humidity": 41.931578947368415}
 {"timestamp": 1748064000.0, "temperature": 19.05, "humidity": 41.983999999999995}
 {"timestamp": 1748064600.0, "temperature": 19.02972972972973, "humidity": 41.9972972972973}
-{"timestamp": 1748065200.0, "temperature": 19.024444444444445, "humidity": 42.0}
+{"timestamp": 1748065200.0, "temperature": 19.022448979591836, "humidity": 42.00204081632653}
+{"timestamp": 1748065800.0, "temperature": 19.0, "humidity": 42.0}
