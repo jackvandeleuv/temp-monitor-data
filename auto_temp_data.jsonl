@@ -807,4 +807,8 @@
 {"timestamp": 1748247600.0, "temperature": 19.361538461538462, "humidity": 45.78974358974359}
 {"timestamp": 1748248200.0, "temperature": 19.30215053763441, "humidity": 45.802150537634404}
 {"timestamp": 1748248800.0, "temperature": 19.3, "humidity": 45.88695652173912}
-{"timestamp": 1748249400.0, "temperature": 19.3, "humidity": 45.97283950617284}
+{"timestamp": 1748249400.0, "temperature": 19.3, "humidity": 45.98275862068966}
+{"timestamp": 1748250000.0, "temperature": 19.282692307692308, "humidity": 46.07884615384615}
+{"timestamp": 1748250600.0, "temperature": 19.213793103448275, "humidity": 46.18103448275862}
+{"timestamp": 1748251200.0, "temperature": 19.2, "humidity": 46.28072289156626}
+{"timestamp": 1748251800.0, "temperature": 19.2, "humidity": 46.39365079365079}
